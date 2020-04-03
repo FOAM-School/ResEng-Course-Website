@@ -20,12 +20,12 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 # Highlighting config
 pygmentsCodeFences = true
-pygmentsUseClasses = true
-# Use the new Chroma Go highlighter in Hugo.
+pygmentsUseClasses = false
+## Use the new Chroma Go highlighter in Hugo.
 pygmentsUseClassic = false
 pygmentsOptions = "linenos=table"
-# See https://help.farbox.com/pygments.html
-pygmentsStyle = "tango"
+## See https://help.farbox.com/pygments.html
+pygmentsStyle = "friendly"
 
 # Configure how URLs look like per section.
 [permalinks]

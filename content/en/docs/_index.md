@@ -43,6 +43,8 @@ That said, there are some assumptions I make on your background:
   You can join a group of at most 3 individuals to carry these projects out.
 5. At the end of each part, going through a capstone project is suggested.
   You can join a team of up to 5 individuals.
+6. Many assignments will automatically open "pull requests" for me to provide
+  feedback on your work.
 
 It's recommended that you use the labs environment (we will help you set it up) but it's 
 completely optional.
@@ -61,7 +63,7 @@ completely optional.
 
 ## Contributions
 
-Spotted a **typo**? Or do you think may be a little "clearer" if said (written) in a different way?
+Spotted a **typo**? Or do you think something may be a little "clearer" if said (written) in a different way?
 Just hit the "Edit this page" link on the top-right of this page, make your changes,
 and commit them with a useful message. I'll review your changes and accept them if feasible.
 
